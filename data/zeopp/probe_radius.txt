@@ -1,0 +1,5 @@
+H2: 	1.479 A (half sigma from https://link.aps.org/doi/10.1103/PhysRevA.45.8968)
+N2:	1.655 A (half sigma from TraPPE)
+n2:     1.860 A (kinetic radius, used in my paper http://pubs.acs.org/doi/10.1021/acs.langmuir.7b01682 and in many works) 
+CH4:    1.865 A (half sigma from TraPPE)
+CO2:	1.525 A (half O sigma from TraPPE)
