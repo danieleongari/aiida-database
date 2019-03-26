@@ -1,0 +1,2 @@
+CO2 TraPPE from NPT-MD @ 273K 100bar, cut 14.0, 100k steps = 931.65 kg/m^3 / 44 kg/kmol = 21.2 mol/l
+N2 TraPPE from NPT-MD @ 77K 10bar, cut 14.0, 100k steps = 792.29 kg/m^3 / 28 kg/kmol = 28.3 mol/l
